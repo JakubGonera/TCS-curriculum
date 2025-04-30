@@ -1,5 +1,3 @@
-Here's the translation of the document, keeping Polish book names in their original form and using "ECTS credits" as requested:
-
 # Concurrent Programming
 
 Course description

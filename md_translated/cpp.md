@@ -1,5 +1,3 @@
-![Logo](/uploads/syllabus_logo/uj/banner/66701ffaad7b5.png)
-
 # C++ Programming Language
 
 Course description

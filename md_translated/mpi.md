@@ -53,7 +53,7 @@ Piotr Micek
 
 |  |  |  |
 | --- | --- | --- |
-| Period  Semester 3 | Form of verification of learning outcomes <br/> exam <br/>Form of instruction and hours  <br/> lecture: 30   exercises: 30 | Number of ECTS credits  6.0 |
+| Period  Semester 3 | Form of verification of learning outcomes <br/> exam <br/>Form of instruction and hours  <br/> lecture: 30   tutorials: 30 | Number of ECTS credits  6.0 |
 
 ## Educational aims for the course
 
@@ -79,8 +79,8 @@ Piotr Micek
 | --- | --- | --- |
 | Student activity form | Average number of hours* devoted to completed activity types | |
 | lecture | 30 | |
-| exercises | 30 | |
-| preparation for exercises | 90 | |
+| tutorials | 30 | |
+| preparation for tutorials | 90 | |
 | preparation for exam | 29 | |
 | participation in exam | 1 | |
 |  | | |
@@ -102,8 +102,8 @@ conventional lecture, multimedia presentation lecture, subject exercises
 
 | Type of classes | Credit forms | Course credit conditions |
 | --- | --- | --- |
-| lecture | oral exam | Obtaining an appropriate number of points for the exam and exercises |
-| exercises | credit | Obtaining an appropriate number of points for exercises |
+| lecture | oral exam | Obtaining an appropriate number of points for the exam and tutorials |
+| tutorials | credit | Obtaining an appropriate number of points for exercises |
 
 ## Prerequisites and additional requirements
 

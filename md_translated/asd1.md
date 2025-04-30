@@ -1,5 +1,3 @@
-![Logo](/uploads/syllabus_logo/uj/banner/66701ffaad7b5.png)
-
 # Algorithms and Data Structures 1
 
 Course description
