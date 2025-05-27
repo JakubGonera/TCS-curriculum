@@ -66,7 +66,7 @@ Maciej Ślusarek, Krzysztof Turowski
 | W1 | basic concepts, models and techniques of parallel computing | IAN\_K1\_W04,   IAN\_K1\_W08,   IAN\_K1\_W13 | written exam, credit |
 | Skills – Student can: | | | |
 | U1 | design and analyze parallel algorithms for selected problems and parallelism models | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U21 | written exam, credit |
-| U2 | program in parallel in a graphics card environment | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U09,   IAN\_K1\_U11 | written exam, credit |
+| U2 | program in parallel in GPU environment | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U09,   IAN\_K1\_U11 | written exam, credit |
 
 ## ECTS credits balance
 

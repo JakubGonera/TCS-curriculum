@@ -115,7 +115,7 @@ project method, multimedia presentation lecture, case studies, laboratory classe
 | Type of classes | Forms of credit | Course credit requirements |
 | --- | --- | --- |
 | lecture | written exam | To pass the course, more than 50% of points on the written exam and a positive grade from the laboratory classes are required. |
-| laboratory classes | project, programming tasks | To pass the laboratory classes, timely and correct completion of two programming projects and two programming tasks is required. Activity during classes may improve the grade but does not change the fact of passing the classes. |
+| laboratory classes | project, programming tasks | To pass the laboratory classes, timely and correct completion of two programming projects and two programming tasks is required. Activity during classes may improve the grade but does not influence passing the classes. |
 
 ## Prerequisites and additional requirements
 

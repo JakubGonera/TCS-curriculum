@@ -66,10 +66,10 @@ Lech Duraj
 | Code | Outcomes in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | issues listed in "Program content" regarding computer arithmetic, calculation errors, conditioning and numerical stability of algorithms | IAN\_K1\_W12 | written exam, credit |
-| W2 | issues listed in "Program content" in the field of algebra and numerical analysis, including methods for solving numerical problems | IAN\_K1\_W09, IAN\_K1\_W10, IAN\_K1\_W12 | written exam, credit |
+| W1 | issues listed in "Course content" regarding computer arithmetic, calculation errors, conditioning and numerical stability of algorithms | IAN\_K1\_W12 | written exam, credit |
+| W2 | issues listed in "Course content" in the field of algebra and numerical analysis, including methods for solving numerical problems | IAN\_K1\_W09, IAN\_K1\_W10, IAN\_K1\_W12 | written exam, credit |
 | Skills – The student can: | | | |
-| U1 | solve numerical problems listed in "Program content", and effectively implement selected algorithms | IAN\_K1\_U01, IAN\_K1\_U05, IAN\_K1\_U10 | written exam, credit |
+| U1 | solve numerical problems listed in "Course content", and effectively implement selected algorithms | IAN\_K1\_U01, IAN\_K1\_U05, IAN\_K1\_U10 | written exam, credit |
 | U2 | prove correctness and numerical stability of algorithms, select appropriate algorithms to solve numerical problems | IAN\_K1\_U01, IAN\_K1\_U02, IAN\_K1\_U10, IAN\_K1\_U11, IAN\_K1\_U17 | written exam, credit |
 
 ## ECTS credits balance
@@ -92,7 +92,7 @@ Lech Duraj
 
 | No. | Program content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | Floating-point arithmetic, calculation and rounding errors, task numerical conditioning and numerical stability of algorithms | W1, U2 |
+| 1. | Floating-point arithmetic, calculation and rounding errors, numerical conditioning and numerical stability of algorithms | W1, U2 |
 | 2. | Numerical methods in algebra: systems of linear equations, Gaussian elimination, orthonormalization, LU and QR matrix decomposition, eigenvectors and eigenvalues, singular values and SVD decomposition | W2, U1, U2 |
 | 3. | Numerical analysis: nonlinear methods, unconstrained and constrained optimization, interpolation and approximation, numerical differentiation and integration, fundamentals of differential equations, Fourier transform and related transformations | W2, U1, U2 |
 

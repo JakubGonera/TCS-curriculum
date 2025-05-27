@@ -60,7 +60,7 @@ Maciej Ślusarek, Piotr Micek, Krzysztof Potępa
 | Code | Outcomes in the area of: | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – Student knows and understands: | | | |
-| W1 | knows advanced data structures based on binary search trees: AVL trees, red-black trees, B-trees, heaps, splay trees and methods of their programming implementation | IAN\_K1\_W04,   IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W11 | graded credit, credit |
+| W1 | knows advanced data structures based on binary search trees: AVL trees, red-black trees, B-trees, heaps, splay trees and methods of their implementation | IAN\_K1\_W04,   IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W11 | graded credit, credit |
 | W2 | has in-depth knowledge of algorithm construction techniques, in particular dynamic programming and the greedy method | IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W09,   IAN\_K1\_W10,   IAN\_K1\_W11,   IAN\_K1\_W12 | graded credit, credit |
 | W3 | knows basic as well as selected advanced algorithms for many graph problems | IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W09,   IAN\_K1\_W10,   IAN\_K1\_W11 | graded credit, credit |
 | Skills – Student can: | | | |

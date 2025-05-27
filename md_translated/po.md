@@ -85,7 +85,7 @@ Marcin Kozik
 
 | No. | Course content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | Object-oriented programming techniques using Java and C++ examples:    1. encapsulation and information hiding, classes and subclasses, inheritance, interfaces, polymorphism, class hierarchies (Java, C++)  2. generic types (Java), templates (C++)  3. containers and iterators (Java, C++)  4. exceptions (Java, C++)  5. reflection (Java) and RTTI (C++)  6. threads (Java)  7. input/output (Java, C++)  8. garbage collection (Java)  9. GUI (Java) | W1,   U1,   K1 |
+| 1. | Object-oriented programming techniques with examples in Java and C++    1. encapsulation and information hiding, classes and subclasses, inheritance, interfaces, polymorphism, class hierarchies (Java, C++)  2. generic types (Java), templates (C++)  3. containers and iterators (Java, C++)  4. exceptions (Java, C++)  5. reflection (Java) and RTTI (C++)  6. threads (Java)  7. input/output (Java, C++)  8. garbage collection (Java)  9. GUI (Java) | W1,   U1,   K1 |
 
 ## Extended information
 

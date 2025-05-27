@@ -66,11 +66,11 @@ Grzegorz Gutowski
 | Code | Effects in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | After completing the course, the student knows and understands theoretical and practical issues related to network architectures, technologies, and applications. | IAN\_K1\_W03,   IAN\_K1\_W16 | written exam, project, presentation |
+| W1 | theoretical and practical issues related to network architectures, technologies, and applications. | IAN\_K1\_W03,   IAN\_K1\_W16 | written exam, project, presentation |
 | Skills – The student can: | | | |
-| U1 | After completing the course, the student can analyze, design, use, and program network solutions. | IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U12,   IAN\_K1\_U13,   IAN\_K1\_U17,   IAN\_K1\_U18,   IAN\_K1\_U19,   IAN\_K1\_U21 | written exam, project, presentation |
+| U1 | analyze, design, use, and program network solutions. | IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U12,   IAN\_K1\_U13,   IAN\_K1\_U17,   IAN\_K1\_U18,   IAN\_K1\_U19,   IAN\_K1\_U21 | written exam, project, presentation |
 | Social competences – The student is ready to: | | | |
-| K1 | After completing the course, the student is ready to discuss social aspects related to network technologies. | IAN\_K1\_K01,   IAN\_K1\_K06 | written exam, project, presentation |
+| K1 | discuss social aspects related to network technologies. | IAN\_K1\_K01,   IAN\_K1\_K06 | written exam, project, presentation |
 
 ## ECTS credits balance
 

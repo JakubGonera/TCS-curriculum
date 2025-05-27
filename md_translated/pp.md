@@ -67,14 +67,14 @@ Iwona Cieślik
 | Code | Effects in the area of | Major learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | the syntax of C and C++ languages and basic functions from the standard libraries of these languages | IAN\_K1\_W04,   IAN\_K1\_W05 | programming tasks, test |
-| W2 | methods of number representation in computer memory and properties of computer arithmetic | IAN\_K1\_W13 | written exam |
-| W3 | basics of algorithms, basic data structures (arrays, lists, trees), their computer representations and operations performed on them, and basic techniques for algorithm construction and analysis | IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08 | written exam, programming tasks, test |
+| W1 | the syntax of C and C++ and basic functions from the standard libraries of these languages | IAN\_K1\_W04,   IAN\_K1\_W05 | programming tasks, test |
+| W2 | number representations and properties of computer arithmetic | IAN\_K1\_W13 | written exam |
+| W3 | basics of algorithms, basic data structures (arrays, lists, trees), their computer representations and operations performed on them, and basic techniques of algorithm construction and analysis | IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08 | written exam, programming tasks, test |
 | Skills – The student can: | | | |
 | U1 | program in C and C++ languages | IAN\_K1\_U03,   IAN\_K1\_U05 | programming tasks, test |
-| U2 | design and implement simple algorithms using basic data structures such as: arrays, strings, pointers, structures, objects, files, linked lists; uses these structures to describe simple problems presented in natural language | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U07 | written exam, programming tasks, test |
-| U3 | use basic programming techniques such as function calls, recursion, backtracking; can choose the appropriate method | IAN\_K1\_U03,   IAN\_K1\_U06 | written exam, programming tasks, test |
-| U4 | write programs in a readable way and can analyze their code to locate errors | IAN\_K1\_U03,   IAN\_K1\_U05 | programming tasks, test |
+| U2 | design and implement simple algorithms using basic data structures such as: arrays, strings, pointers, structures, objects, files, linked lists; use these structures to describe simple problems presented in natural language | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U07 | written exam, programming tasks, test |
+| U3 | use basic programming techniques such as function calls, recursion, backtracking; choose the appropriate method | IAN\_K1\_U03,   IAN\_K1\_U06 | written exam, programming tasks, test |
+| U4 | write programs in a readable way and analyze their code to find errors | IAN\_K1\_U03,   IAN\_K1\_U05 | programming tasks, test |
 | Social competences – The student is ready to: | | | |
 | K1 | formulate questions to better understand a given topic | IAN\_K1\_K01 | graded credit |
 
@@ -101,7 +101,7 @@ Iwona Cieślik
 | 1. | Programming in C language:  a. basic and complex data types,  b. operators, control instructions  c. arrays, strings, pointers, functions  d. input/output operations, working with files  e. dynamic memory allocation  f. complex data types  g. dynamic data structures (lists, stacks, queues)  h. basic functions from the standard library | W1,   W3,   U1,   U2,   U3,   U4,   K1 |
 | 2. | Basics of object-oriented programming in C++  a. creating classes, public and private methods  b. operator overloading  c. streams, input/output operations  d. dynamic memory allocation | W1,   W3,   U1,   U2,   U3,   U4,   K1 |
 | 3. | Basics of algorithms  a. Euclidean algorithm  b. quadratic sorting algorithms  c. binary search  d. fast exponentiation  e. reverse Polish notation  f. positional systems and conversion algorithms  g. recursion, backtracking algorithms, game tree  h. dynamic data structures (lists, stacks, queues) | K1 |
-| 4. | 4. Theoretical foundations of programming  a. Number representation in computers: positional systems, conversion algorithms, sign-magnitude and two's complement systems, fixed-point and floating-point representation, properties of computer arithmetic.  b. Example of a digital machine - von Neumann Machine  c. Algorithm correctness, invariants  d. Basic concepts of computational complexity | W2,   W3,   K1 |
+| 4. | Theoretical foundations of programming  a. Number representations: positional systems, conversion algorithms, sign-magnitude and two's complement systems, fixed-point and floating-point representation, properties of computer arithmetic.  b. Example of a digital machine - von Neumann Machine  c. Algorithm correctness, invariants  d. Basic concepts of computational complexity | W2,   W3,   K1 |
 
 ## Extended information
 

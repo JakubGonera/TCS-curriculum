@@ -60,7 +60,7 @@ Rafał Pierzchała
 | Code | Outcomes in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | theorems covered in the lecture, listed in the Syllabus Content field | IAN\_K1\_W01, IAN\_K1\_W12 | written exam, graded credit |
+| W1 | theorems covered in the lecture, listed in the "Course content" field | IAN\_K1\_W01, IAN\_K1\_W12 | written exam, graded credit |
 | Skills – The student can: | | | |
 | U1 | provide examples of applications of theorems learned during the lecture and solve typical problems related to these theorems | IAN\_K1\_U02 | written exam, graded credit |
 | Social competences – The student is ready to: | | | |
@@ -85,7 +85,7 @@ Rafał Pierzchała
 
 | No. | Program content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | Basic topological concepts. Limits and continuity of multivariable functions. Function sequences and series. Theorems on continuity, integrability, and differentiability of function sequence limits. Power series. Partial derivatives. Differentiability. Taylor's formula. Extrema of multivariable functions. Implicit function theorem. Local diffeomorphism theorem. Integration of multivariable functions. Fubini's theorem. Change of variables theorem. | W1, U1, K1 |
+| 1. | Basic topological concepts. Limits and continuity of multivariate functions. Function sequences and series. Theorems on continuity, integrability, and differentiability of function sequence limits. Power series. Partial derivatives. Differentiability. Taylor's formula. Extrema of multivariate functions. Implicit function theorem. Local diffeomorphism theorem. Integration of multivariate functions. Fubini's theorem. Change of variables theorem. | W1, U1, K1 |
 
 ## Extended information
 

@@ -65,11 +65,11 @@ Bartłomiej Bosek
 | Code | Effects in the area of | Major learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | after completing the course, the student knows and understands theoretical and practical issues related to large programming projects. | IAN\_K1\_W03,   IAN\_K1\_W15 | project, presentation |
+| W1 | theoretical and practical issues related to large programming projects. | IAN\_K1\_W03,   IAN\_K1\_W15 | project, presentation |
 | Skills – The student can: | | | |
-| U1 | after completing the course, the student can actively participate in a large programming project. | IAN\_K1\_U03,   IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U18,   IAN\_K1\_U20,   IAN\_K1\_U21,   IAN\_K1\_U22,   IAN\_K1\_U24,   IAN\_K1\_U26 | project, presentation |
+| U1 | actively participate in a large programming project. | IAN\_K1\_U03,   IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U18,   IAN\_K1\_U20,   IAN\_K1\_U21,   IAN\_K1\_U22,   IAN\_K1\_U24,   IAN\_K1\_U26 | project, presentation |
 | Social competences – The student is ready to: | | | |
-| K1 | after completing the course, the student is ready to discuss social aspects related to large programming projects. | IAN\_K1\_K01,   IAN\_K1\_K02,   IAN\_K1\_K03,   IAN\_K1\_K04 | project, presentation |
+| K1 | discuss social aspects related to large programming projects. | IAN\_K1\_K01,   IAN\_K1\_K02,   IAN\_K1\_K03,   IAN\_K1\_K04 | project, presentation |
 
 ## ECTS credits balance
 

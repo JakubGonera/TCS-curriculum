@@ -63,9 +63,9 @@ Tomasz Krawczyk
 | Code | Effects in terms of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | knows and understands the most important concepts and theorems in combinatorics and graph theory, especially those listed in the Syllabus Content field. | IAN\_K1\_W02 | graded credit, written/oral exam |
+| W1 | the most important concepts and theorems in combinatorics and graph theory, especially those listed in the Course content field. | IAN\_K1\_W02 | graded credit, written/oral exam |
 | Skills – The student can: | | | |
-| U1 | define basic concepts of discrete mathematics and illustrate them with simple examples. Can formulate the most important theorems of discrete mathematics and illustrate them with simple examples. Can present mathematical reasoning in an understandable way. Can use combinatorial structures in formulating and solving computer science problems. Can solve a simple combinatorial problem and present the solution orally and in writing. Can present the topics discussed in class and formulate questions to better understand the subject. | IAN\_K1\_U01,   IAN\_K1\_U02,   IAN\_K1\_U21,   IAN\_K1\_U22 | graded credit, written/oral exam |
+| U1 | - define basic concepts of discrete mathematics and illustrate them with simple examples </br> - formulate the most important theorems of discrete mathematics and illustrate them with simple examples </br> - present mathematical reasoning in an understandable way - use combinatorial structures in formulating and solving computer science problems </br> - solve a simple combinatorial problem and present the solution orally and in writing </br> - present the topics discussed in class and formulate questions to better understand the subject | IAN\_K1\_U01,   IAN\_K1\_U02,   IAN\_K1\_U21,   IAN\_K1\_U22 | graded credit, written/oral exam |
 | Social competences – The student is ready to: | | | |
 | K1 | approach with appropriate reservation opinions and statements that have not been sufficiently justified. | IAN\_K1\_K01 | graded credit |
 
@@ -84,7 +84,7 @@ Tomasz Krawczyk
 
 \* hour (lesson) means 45 minutes
 
-## Program Content
+## Course content
 
 | No. | Program Content | Learning outcomes for the course |
 | --- | --- | --- |

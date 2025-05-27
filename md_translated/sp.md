@@ -121,7 +121,7 @@ problem solving, laboratory classes
 
 **Additional** 
 
-1. Additional literature is supportive:
+1. Supporting literature:
    1. http://www.tutorialspoint.com/unix/index.htm
    2. http://www.tutorialspoint.com/awk/index.htm
    3. https://git-scm.com/book/pl/v1

@@ -63,11 +63,11 @@ Bartłomiej Bosek
 | Code | Outcomes in the field of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | knows formal methods of computer science, knows discrete and probabilistic methods modeling computer science issues | IAN\_K1\_W02 | presentation |
+| W1 | formal methods of computer science; discrete and probabilistic methods modeling computer science issues | IAN\_K1\_W02 | presentation |
 | Skills – The student can: | | | |
-| U1 | can acquire and clearly present knowledge from professional literature | IAN\_K1\_U01,   IAN\_K1\_U02,   IAN\_K1\_U17,   IAN\_K1\_U21,   IAN\_K1\_U23,   IAN\_K1\_U24,   IAN\_K1\_U26 | presentation |
+| U1 | acquire and clearly present knowledge from professional literature | IAN\_K1\_U01,   IAN\_K1\_U02,   IAN\_K1\_U17,   IAN\_K1\_U21,   IAN\_K1\_U23,   IAN\_K1\_U24,   IAN\_K1\_U26 | presentation |
 | Social competences – The student is ready to: | | | |
-| K1 | knows the limitations of their own knowledge and understands the need for further education | IAN\_K1\_K01,   IAN\_K1\_K02 | presentation |
+| K1 | know the limitations of their own knowledge and understand the need for further education | IAN\_K1\_K01,   IAN\_K1\_K02 | presentation |
 
 ## ECTS credits balance
 

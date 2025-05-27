@@ -59,7 +59,7 @@ Jakub Kozik, Jan Derbisz
 
 |  |  |
 | --- | --- |
-| C1 | When we exhaust algorithmic and design ways to speed up a computer program, we are left with only low-level code optimization. Compilers, virtual machines, and code generators become more powerful tools year by year, but to achieve the highest efficiency, we often need to optimize code manually. In this course, you will learn how to manage memory well, why it's worth using cursor structures, and how to live in harmony with cache memory. We will show you how not to ruin the performance of a multithreaded program with poor synchronization. We will teach you how to squeeze every last bit of performance from modern processors using their vector capabilities and many other useful techniques that will expand your programming toolkit. |
+| C1 | When we exhaust algorithmic ways to speed up a computer program, we are left with low-level code optimization. Compilers, virtual machines, and code generators become more powerful every year, but to achieve the highest efficiency, we often need to optimize code manually. In this course, you will learn how to manage memory well, why it's worth using cursor structures, and how to live in harmony with cache memory. We will show you how not to ruin the performance of a multithreaded program with poor synchronization. We will teach you how to squeeze every last bit of performance from modern processors using their vector capabilities and many other useful techniques that will expand your programming toolkit. |
 
 ## Learning outcomes for the course
 
@@ -69,7 +69,7 @@ Jakub Kozik, Jan Derbisz
 | W1 | fundamentals of modern processor architecture. | IAN\_K1\_W13 | written exam, graded credit |
 | Skills – The student can: | | | |
 | U1 | program in assembly language using advanced processor functionalities (including SIMD and atomic instructions). | IAN\_K1\_U03,   IAN\_K1\_U09 | written exam, graded credit, programming tasks |
-| U2 | student uses elements of low-level optimization in high-level language programming (C/C++). | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U09 | written exam, graded credit, programming tasks |
+| U2 | use elements of low-level optimization in high-level language programming (C/C++). | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U09 | written exam, graded credit, programming tasks |
 
 ## ECTS credits balance
 

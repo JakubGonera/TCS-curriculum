@@ -60,9 +60,9 @@ Krzysztof Turowski
 | Code | Outcomes in the area of: | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – Student knows and understands: | | | |
-| W1 | - purpose and syntax constructs of C++ language in the C++14 standard - object-oriented and generic programming techniques - basic functions of the standard library | IAN\_K1\_W04,   IAN\_K1\_W05 | graded credit |
+| W1 | - purpose of syntactic constructs of C++ language (in the C++14 standard) - object-oriented and generic programming techniques - basic functions of the standard library | IAN\_K1\_W04,   IAN\_K1\_W05 | graded credit |
 | Skills – Student can: | | | |
-| U1 | - use appropriate syntax constructs for the problem when writing code in C++ - find programming errors and optimize programs written in C++ - predict the behavior of programs written in C++ - use the standard library | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U08 | graded credit |
+| U1 | - use appropriate syntactic constructs for the problem when writing code in C++ - find programming errors and optimize programs written in C++ - predict the behavior of programs written in C++ - use the standard library | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U08 | graded credit |
 
 ## ECTS credit balance
 

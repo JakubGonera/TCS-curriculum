@@ -65,10 +65,10 @@ Grzegorz Herman
 | Knowledge – The student knows and understands: | | | |
 | W1 | contemporary directions of development and achievements in the field of programming languages | IAN\_K1\_W05 | presentation |
 | Skills – The student can: | | | |
-| U1 | obtain information from scientific publications in English and integrate them | IAN\_K1\_U24 | presentation |
+| U1 | obtain and integrate information from scientific publications in English | IAN\_K1\_U24 | presentation |
 | U2 | prepare an oral presentation of scientific results | IAN\_K1\_U21,   IAN\_K1\_U23 | presentation |
 | Social competences – The student is ready to: | | | |
-| K1 | understand the limitations of their knowledge and understand the need for further education | IAN\_K1\_K05 | presentation |
+| K1 | understand the limitations of their knowledge and the need for further education | IAN\_K1\_K05 | presentation |
 
 ## ECTS credits balance
 
@@ -86,7 +86,7 @@ Grzegorz Herman
 
 | No. | Course content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | "Paradigms of Programming Languages" is a seminar designed for those interested in programming language design and implementation.    Students with a stronger theoretical inclination are invited to independently tackle the latest scientific results in this field (type systems, program correctness proofs, optimization, parallelization, etc.). For those interested in the practical side of the topic, we propose participation in an IT project related to programming language design and compiler implementation. | W1,   U1,   U2,   K1 |
+| 1. | "Paradigms of Programming Languages" is a seminar dedicated to programming language design and implementation.    Students with a stronger theoretical inclination are invited to independently tackle the latest scientific results in this field (type systems, program correctness proofs, optimization, parallelization, etc.). For those interested in the practical side of the topic, we propose participation in an IT project related to programming language design and compiler implementation. | W1,   U1,   U2,   K1 |
 
 ## Extended information
 

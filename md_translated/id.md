@@ -60,11 +60,11 @@ Katarzyna Grygiel
 | Code | Outcomes in the area of: | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – Student knows and understands: | | | |
-| W1 | - relational data model - structured query language SQL - architecture of modern relational database systems - characteristics, purpose and mechanisms of concurrent transaction execution - mechanisms for preventing and recovering databases in case of failure - techniques for modeling conceptual schemas (entity model) - normalization methods in the relational data model - purpose and goal of using data warehouses | IAN\_K1\_W03,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W14 | written / oral exam |
+| W1 | - relational data model - structured query language SQL - architecture of modern relational database systems - characteristics, purpose and mechanisms of concurrent transaction execution - mechanisms for failure prevention and recovering databases in case of failure - techniques for modeling conceptual schemas (entity model) - normalization methods in the relational data model - purpose and goal of using data warehouses | IAN\_K1\_W03,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W14 | written / oral exam |
 | Skills – Student can: | | | |
 | U1 | - use SQL language and related procedural languages - effectively design and implement information systems using databases - secure and maintain database systems | IAN\_K1\_U03,   IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U12,   IAN\_K1\_U13,   IAN\_K1\_U14,   IAN\_K1\_U16,   IAN\_K1\_U17,   IAN\_K1\_U18,   IAN\_K1\_U19,   IAN\_K1\_U21 | project, credit, written / oral exam |
 | Social competences – Student is ready to: | | | |
-| K1 | - team modeling, implementing and maintaining information systems - critically analyze the design and applied security measures of information systems | IAN\_K1\_K01,   IAN\_K1\_K02 | project, credit, written / oral exam |
+| K1 | - cooperate on modeling, implementing and maintaining information systems - critically analyze the design and applied security measures of information systems | IAN\_K1\_K01,   IAN\_K1\_K02 | project, credit, written / oral exam |
 
 ## ECTS credit balance
 

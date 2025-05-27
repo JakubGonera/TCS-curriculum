@@ -60,9 +60,9 @@ Krzysztof Turowski
 | Code | Outcomes in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – Student knows and understands: | | | |
-| W1 | student knows the basic elements and data structures of the Python language (listed in the Syllabus Content field), which enable creating advanced programs and applications in this language. | IAN\_K1\_W04,   IAN\_K1\_W05 | written credit, project |
+| W1 | the basic elements and data structures of the Python language (listed in the "Program content" field), which enable creating advanced programs and applications in this language. | IAN\_K1\_W04,   IAN\_K1\_W05 | written credit, project |
 | Skills – Student can: | | | |
-| U1 | student can implement applications and programs in Python. | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U08 | written credit, project |
+| U1 | implement applications and programs in Python. | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U08 | written credit, project |
 
 ## ECTS credits balance
 

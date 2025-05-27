@@ -66,10 +66,10 @@ Lech Duraj
 | Code | Outcomes in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | basic concepts in the field of algebra and number theory listed in "Program content", useful in the work of a computer scientist | IAN\_K1\_W01 | oral exam, credit |
-| W2 | algorithms listed in "Program content" (in particular cryptographic algorithms) | IAN\_K1\_W06, IAN\_K1\_W08, IAN\_K1\_W10 | oral exam, credit |
+| W1 | basic concepts in the field of algebra and number theory listed in "Course content", useful in the work of a computer scientist | IAN\_K1\_W01 | oral exam, credit |
+| W2 | algorithms listed in "Course content" (in particular cryptographic algorithms) | IAN\_K1\_W06, IAN\_K1\_W08, IAN\_K1\_W10 | oral exam, credit |
 | Skills – The student can: | | | |
-| U1 | conduct proofs of correctness of selected theorems given in "Program content", in particular proofs of correctness and complexity analysis of algorithms in the field of algebra and number theory | IAN\_K1\_U01, IAN\_K1\_U10, IAN\_K1\_U17, IAN\_K1\_U21 | oral exam, credit |
+| U1 | conduct proofs of correctness of selected theorems given in "Course content", in particular proofs of correctness and complexity analysis of algorithms in the field of algebra and number theory | IAN\_K1\_U01, IAN\_K1\_U10, IAN\_K1\_U17, IAN\_K1\_U21 | oral exam, credit |
 | U2 | implement basic algorithms of algebra and number theory (including cryptographic algorithms) in an efficient way, taking into account communication security issues | IAN\_K1\_U03, IAN\_K1\_U17 | credit |
 
 ## ECTS credits balance

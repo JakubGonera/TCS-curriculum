@@ -64,7 +64,7 @@ Maciej Ślusarek, Marcin Briański, Krzysztof Potępa
 | --- | --- | --- | --- |
 | Knowledge – Student knows and understands: | | | |
 | W1 | knows standard algorithms and data structures used in solutions to algorithmic problems in computational geometry, text processing, and number theory | IAN\_K1\_W04,   IAN\_K1\_W06,   IAN\_K1\_W07,   IAN\_K1\_W08,   IAN\_K1\_W09,   IAN\_K1\_W10,   IAN\_K1\_W11,   IAN\_K1\_W12 | oral exam, credit |
-| W2 | understands the concept of computational complexity, knows the definition of NP class and NP-complete problems, identifies example NP-complete problems, knows selected approximation algorithms | IAN\_K1\_W11 | oral exam, credit |
+| W2 | understands the concepts of computational complexity, knows the definition of the NP class and NP-complete problems, identifies example NP-complete problems, knows selected approximation algorithms | IAN\_K1\_W11 | oral exam, credit |
 | Skills – Student can: | | | |
 | U1 | model problems presented in natural language using mathematical language and advanced algorithmic concepts | IAN\_K1\_U01,   IAN\_K1\_U06,   IAN\_K1\_U07,   IAN\_K1\_U17,   IAN\_K1\_U21,   IAN\_K1\_U22 | oral exam, credit |
 | U2 | propose a solution for a typical algorithmic problem in the discussed fields and present its solution orally and in writing | IAN\_K1\_U03,   IAN\_K1\_U06,   IAN\_K1\_U10,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U21,   IAN\_K1\_U22 | oral exam, credit |

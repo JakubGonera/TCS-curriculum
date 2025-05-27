@@ -71,12 +71,12 @@ Iwona Cieślik
 | Code | Effects in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Skills – The student can: | | | |
-| U1 | obtain information from documentation, professional literature (in Polish and English), integrate them, make own conclusions, analyses and interpretations | IAN\_K1\_U24 | graded credit |
+| U1 | obtain information from documentation, professional literature (in Polish and English), integrate it, make own conclusions, analyses and interpretations | IAN\_K1\_U24 | graded credit |
 | U2 | present computer science issues in an understandable language and prepare written studies on selected topics | IAN\_K1\_U02,   IAN\_K1\_U21,   IAN\_K1\_U22 | graded credit |
-| U3 | demonstrate readiness to constantly adapt their knowledge and practical skills to changes occurring in computer science; understands the need to improve their qualifications | IAN\_K1\_U26 | graded credit |
+| U3 | demonstrate readiness to constantly adapt their knowledge and practical skills to changes occurring in computer science; understand the need to improve their qualifications | IAN\_K1\_U26 | graded credit |
 | Social competences – The student is ready to: | | | |
-| K1 | formulate bold questions that help better understand the assigned topic and stimulate the search for information in professional literature, the internet and scientific articles; approach critically the information found and their own conclusions; can justify the results of their analyses | IAN\_K1\_K01,   IAN\_K1\_K04,   IAN\_K1\_K05 | graded credit |
-| K2 | plan systematic work on a given topic; can define priorities for preparing the assigned written work | IAN\_K1\_K02,   IAN\_K1\_K03 | graded credit |
+| K1 | formulate bold questions that help better understand the assigned topic and stimulate the search for information in professional literature, the internet and scientific articles; approach critically the information found and their own conclusions; justify the results of their analyses | IAN\_K1\_K01,   IAN\_K1\_K04,   IAN\_K1\_K05 | graded credit |
+| K2 | plan systematic work on a given topic; define priorities for preparing the assigned written work | IAN\_K1\_K02,   IAN\_K1\_K03 | graded credit |
 
 ## ECTS credits balance
 

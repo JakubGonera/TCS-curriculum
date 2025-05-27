@@ -60,17 +60,17 @@ Maciej Ślusarek, Iwona Cieślik
 | Code | Outcomes in the field of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | knows basic data structures (trees, graphs, hash tables) and methods of their programming implementation | IAN\_K1\_W04,   IAN\_K1\_W06 | written exam, credit |
-| W2 | knows selected techniques of algorithm construction | IAN\_K1\_W06 | written exam, credit |
-| W3 | knows basic techniques of sorting and searching data | IAN\_K1\_W06 | written exam, credit |
+| W1 | basic data structures (trees, graphs, hash tables) and methods of their implementation | IAN\_K1\_W04,   IAN\_K1\_W06 | written exam, credit |
+| W2 | selected techniques of algorithm construction | IAN\_K1\_W06 | written exam, credit |
+| W3 | basic techniques of sorting and searching data | IAN\_K1\_W06 | written exam, credit |
 | Skills – The student can: | | | |
-| U1 | uses basic data structures to describe simple problems presented in natural language | IAN\_K1\_U01,   IAN\_K1\_U07,   IAN\_K1\_U08 | written exam, credit |
-| U2 | designs and implements algorithms using basic data structures and selected programming techniques | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U06,   IAN\_K1\_U07,   IAN\_K1\_U08 | written exam, credit |
-| U3 | can write a program in a readable way, test it at a basic level, look for errors and optimize it | IAN\_K1\_U17 | written exam, credit |
-| U4 | can propose a solution for a simple algorithmic problem by choosing the appropriate method for its solution | IAN\_K1\_U11,   IAN\_K1\_U21 | written exam, credit |
-| U5 | can orally and in writing present the development of a solution to a simple problem | IAN\_K1\_U21 | written exam, credit |
+| U1 | use basic data structures to describe simple problems presented in natural language | IAN\_K1\_U01,   IAN\_K1\_U07,   IAN\_K1\_U08 | written exam, credit |
+| U2 | design and implement algorithms using basic data structures and selected programming techniques | IAN\_K1\_U03,   IAN\_K1\_U05,   IAN\_K1\_U06,   IAN\_K1\_U07,   IAN\_K1\_U08 | written exam, credit |
+| U3 | write a program in a readable way, test it at a basic level, look for errors and optimize it | IAN\_K1\_U17 | written exam, credit |
+| U4 | propose a solution for a simple algorithmic problem by choosing the appropriate method for its solution | IAN\_K1\_U11,   IAN\_K1\_U21 | written exam, credit |
+| U5 | orally and in writing present the development of a solution to a simple problem | IAN\_K1\_U21 | written exam, credit |
 | Social competences – The student is ready to: | | | |
-| K1 | can precisely formulate questions that serve to deepen or supplement their own understanding of a given topic | IAN\_K1\_K01 | written exam, credit |
+| K1 | precisely formulate questions that serve to deepen or supplement their own understanding of a given topic | IAN\_K1\_K01 | written exam, credit |
 
 ## ECTS credits balance
 
@@ -91,7 +91,7 @@ Maciej Ślusarek, Iwona Cieślik
 
 | No. | Program content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | 1. Computational complexity of algorithms – definition, notation, comparison of complexity functions. The concept of abstract data type (ADT). Basic data structures: list, stack, queue, priority queue, dictionary; array, pointer, cursor implementation. Examples: binary search, topological sorting, memory management.    2. Tree structures: trees, binary trees, representations, elementary and advanced traversal algorithms, binary search tree.    3. Amortized complexity, dynamic arrays, hashing (basics).    4. Graphs: representation, BFS and DFS traversal, connected components, cycles, topological sorting with DFS, Euler cycle.    5. Recursion, conversion to iteration, examples: DFS with stack, backtracking.    6. Divide and conquer method, fast multiplication, merge sort, master theorem (simplified version).    7. Quicksort, variants (Hoare, Lomuto), non-recursive version.    8. Binary heap, heapsort, order statistics, counting tree.    9. Radix sort, lower bound on sorting complexity.    10. Dynamic programming – introduction.    11. Greedy algorithms – introduction. | W1,   W2,   W3,   U1,   U2,   U3,   U4,   U5,   K1 |
+| 1. | 1. Computational complexity of algorithms – definition, notation, comparison of complexity functions. The concept of an abstract data type (ADT). Basic data structures: list, stack, queue, priority queue, dictionary; array, pointer, cursor implementation. Examples: binary search, topological sorting, memory management.    2. Tree structures: trees, binary trees, representations, elementary and advanced traversal algorithms, binary search tree.    3. Amortized complexity, dynamic arrays, hashing (basics).    4. Graphs: representation, BFS and DFS traversal, connected components, cycles, topological sorting with DFS, Euler cycle.    5. Recursion, conversion to iteration, examples: DFS with stack, backtracking.    6. Divide and conquer method, fast multiplication, merge sort, master theorem (simplified version).    7. Quicksort, variants (Hoare, Lomuto), non-recursive version.    8. Binary heap, heapsort, order statistics, counting tree.    9. Radix sort, lower bound on sorting complexity.    10. Dynamic programming – introduction.    11. Greedy algorithms – introduction. | W1,   W2,   W3,   U1,   U2,   U3,   U4,   U5,   K1 |
 
 ## Extended information
 

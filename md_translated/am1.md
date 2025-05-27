@@ -60,7 +60,7 @@ Rafał Pierzchała
 | Code | Outcomes in terms of | Directional learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | theorems covered in the lecture, listed in the Syllabus Content field | IAN\_K1\_W01, IAN\_K1\_W12 | graded credit |
+| W1 | theorems covered in the lecture, listed in the "Course content" field | IAN\_K1\_W01, IAN\_K1\_W12 | graded credit |
 | Skills – The student can: | | | |
 | U1 | provide examples of applications of theorems learned during the lecture and solve typical problems related to these theorems | IAN\_K1\_U02 | graded credit |
 | Social competences – The student is ready to: | | | |

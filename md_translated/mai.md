@@ -61,7 +61,7 @@ Paweł Idziak, Andrzej Pezarski
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
 | W1 | basic algebraic, geometric, and number theory concepts and their applications in computer science. | IAN\_K1\_W01 | written exam, credit |
-| W2 | very basic algebraic and number theory algorithms. | IAN\_K1\_W09,   IAN\_K1\_W12 | written exam, credit |
+| W2 | basic algorithms of algebra and number theory. | IAN\_K1\_W09,   IAN\_K1\_W12 | written exam, credit |
 | Skills – The student can: | | | |
 | U1 | present mathematical reasoning in a comprehensible way, formulate definitions and theorems, and apply them in computer science practice. | IAN\_K1\_U01,   IAN\_K1\_U02 | written exam, credit |
 | U2 | apply mathematical knowledge to model simple tasks related to computer science | IAN\_K1\_U01 | written exam, credit |
@@ -107,7 +107,7 @@ conventional lecture, multimedia presentation lecture, subject tutorials
 | Type of classes | Forms of credit | Course completion conditions |
 | --- | --- | --- |
 | lecture | written exam | obtaining more than 50% of points in the weighted average of the written exam (with weight 40%) and tutorial credit (with weight 60%) |
-| tutorials | credit | activity in class including through solving homework assignments; passing written tests |
+| tutorials | credit | activity in class, including solving homework assignments; passing written tests |
 
 ## Prerequisites and Additional Requirements
 

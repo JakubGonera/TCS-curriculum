@@ -63,12 +63,12 @@ Marek Zaionc
 | Code | Effects in terms of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | k\_W02: knows formal methods in computer science; knows discrete and probabilistic methods modeling computer science issues | IAN\_K1\_W02 | written exam, written credit |
+| W1 | formal methods in computer science; discrete and probabilistic methods for modeling computer science issues | IAN\_K1\_W02 | written exam, written credit |
 | Skills – The student can: | | | |
-| U1 | k\_U01: can apply mathematical knowledge to model simple tasks related to computer science | IAN\_K1\_U02 | written exam, written credit |
-| U2 | k\_U02: can present correct mathematical reasoning in an understandable way, formulate definitions and theorems | IAN\_K1\_U01,   IAN\_K1\_U02 | written exam, written credit |
+| U1 | apply mathematical knowledge to model simple tasks related to computer science | IAN\_K1\_U02 | written exam, written credit |
+| U2 | present correct mathematical reasoning in an understandable way, formulate definitions and theorems | IAN\_K1\_U01,   IAN\_K1\_U02 | written exam, written credit |
 | Social competences – The student is ready to: | | | |
-| K1 | k\_K01: approaches with appropriate reservation opinions and statements that have not been sufficiently and correctly justified; can precisely formulate questions for the analysis of a given topic | IAN\_K1\_K01 | written exam, written credit |
+| K1 | approach with appropriate reservation opinions and statements that have not been sufficiently and correctly justified; precisely formulate questions for the analysis of a given topic | IAN\_K1\_K01 | written exam, written credit |
 
 ## ECTS Credit Balance
 
@@ -90,7 +90,7 @@ Marek Zaionc
 
 | No. | Program Content | Learning outcomes for the course |
 | --- | --- | --- |
-| 1. | Set theory axioms, sum and pair axioms. Cartesian product, relations, equivalence relation, set partitions.    Von Neumann construction of natural numbers, induction theorem, definition by induction, well-ordering principle, and the construction of integers, rational and real numbers.    Basic theorems of cardinality theory.    Theory of ordered sets, linearly ordered sets, well-ordered sets, basic theorems in this area. | W1,   U1,   U2,   K1 |
+| 1. | Set theory axioms, sum and pair axioms. Cartesian product, relations, equivalence relations, set partitions.    Von Neumann construction of natural numbers, induction theorem, definition by induction, well-ordering principle, and the construction of integers, rational and real numbers.    Basic theorems of cardinality theory.    Theory of ordered sets, linearly ordered sets, well-ordered sets, basic theorems in this area. | W1,   U1,   U2,   K1 |
 
 ## Extended Information
 
@@ -100,7 +100,7 @@ conventional lecture, multimedia presentation lecture, problem solving, subject 
 
 | Type of classes | Forms of credit | Course completion conditions |
 | --- | --- | --- |
-| lecture | written exam | The exam will be in the form of a test. Admission to the exam test requires obtaining a positive credit. The final grade consists of 50% of points from the previously obtained credit and 50% of points from the exam test. GRADES FROM THE RESIT EXAM: The resit exam will be in the form of a test. All persons who did not pass the exam and also persons who did not get credit are admitted to the resit exam. The final grade after the resit exam consists of 40% of points previously earned for credit and 60% of points from the resit exam test. For persons who have not previously earned credit and who want to take the resit test, the final grade after the resit exam also becomes the credit grade. |
+| lecture | written exam | The exam will be in the form of a test. Admission to the exam test requires obtaining a positive credit. The final grade consists in 50% of points from the previously obtained credit and in 50% of points from the exam test. GRADES FROM THE RESIT EXAM: The resit exam will be in the form of a test. All persons who did not pass the exam and also persons who did not get credit are admitted to the resit exam. The final grade after the resit exam consists in 40% of points previously earned for credit and in 60% of points from the resit exam test. For persons who have not previously earned credit and who want to take the resit test, the final grade after the resit exam also becomes the credit grade. |
 | tutorials | written credit | The credit grade consists of grades from tests 2 x 40p plus 20p for activity in tutorials. Grading scale: from 0 to 50 unsatisfactory; from 51 to 60 satisfactory; from 61 to 70 satisfactory+; from 71 to 80 good; from 81 to 90 good+; from 91 to 100 very good. |
 
 ## Prerequisites and Additional Requirements

@@ -66,12 +66,12 @@ Piotr Micek
 | Code | Outcomes in the field of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | Student knows classical distributions of random variables and can analyze their modifications. | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
-| W2 | Student understands the principle of linearity of expected value and can use it in solving problems. | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
-| W3 | Student can recognize and analyze simple random processes: walks, branching processes, Markov chains. | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
+| W1 | classical distributions of random variables and their modifications. | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
+| W2 | the principle of linearity of expected value (and can use it in solving problems). | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
+| W3 | simple random processes: walks, branching processes, Markov chains. | IAN\_K1\_W01,   IAN\_K1\_W02 | oral exam, credit |
 | Skills – The student can: | | | |
-| U1 | Student can model a probability space for described random experiments. | IAN\_K1\_U01,   IAN\_K1\_U02 | oral exam, credit |
-| U2 | Student understands the idea of simulation of random variables in computer science. | IAN\_K1\_U01,   IAN\_K1\_U02 | oral exam, credit |
+| U1 | model a probability space for described random experiments. | IAN\_K1\_U01,   IAN\_K1\_U02 | oral exam, credit |
+| U2 | apply simulation of random variables in computer science. | IAN\_K1\_U01,   IAN\_K1\_U02 | oral exam, credit |
 
 ## ECTS credits balance
 

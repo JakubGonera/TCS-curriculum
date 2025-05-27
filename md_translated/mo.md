@@ -63,15 +63,15 @@ Michał Wrona, Maciej Ślusarek
 | Code | Effects in terms of | Field-specific learning outcomes | Verification methods |
 | --- | --- | --- | --- |
 | Knowledge – The student knows and understands: | | | |
-| W1 | knows what a formal language is and knows the basic facts about formal languages, | IAN\_K1\_W02 | written exam, graded credit |
-| W2 | knows the basic tools: minimization of finite automata, mutual simulations of equivalent models, pumping lemmas, diagonal method | IAN\_K1\_W11 | written exam, graded credit |
-| W3 | knows the concept of undecidability and basic computational complexity classes | IAN\_K1\_W02,   IAN\_K1\_W11 | written exam, graded credit |
+| W1 | what a formal language is and the basic facts about formal languages, | IAN\_K1\_W02 | written exam, graded credit |
+| W2 | the basic tools: minimization of finite automata, mutual simulations of equivalent models, pumping lemmas, diagonal method | IAN\_K1\_W11 | written exam, graded credit |
+| W3 | the concept of undecidability and basic computational complexity classes | IAN\_K1\_W02,   IAN\_K1\_W11 | written exam, graded credit |
 | Skills – The student can: | | | |
 | U1 | define a model describing a formal language and place the class of languages described by the defined model in the language hierarchy | IAN\_K1\_U01,   IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U21 | written exam, graded credit |
 | U2 | select an appropriate model for the problem being solved | IAN\_K1\_U01,   IAN\_K1\_U04,   IAN\_K1\_U11,   IAN\_K1\_U17,   IAN\_K1\_U21 | written exam, graded credit |
 | U3 | construct finite automata, context-free grammars, and Turing machines | IAN\_K1\_U09 | written exam, graded credit |
 | Social competences – The student is ready to: | | | |
-| K1 | prove theorems in computability theory; understands the profound implications of computability theory for broadly defined science and philosophy, e.g., knows and understands Church's thesis | IAN\_K1\_K01 | written exam, graded credit |
+| K1 | prove theorems in computability theory; understand the profound implications of computability theory for broadly defined science and philosophy, e.g., knows and understands Church's thesis | IAN\_K1\_K01 | written exam, graded credit |
 
 ## ECTS Credit Balance
 
